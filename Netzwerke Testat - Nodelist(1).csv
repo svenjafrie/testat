@@ -1,0 +1,45 @@
+id,name,type,party,age,sex
+Platzeck,Matthias Platzeck,0,11,4,2
+Pofalla,Ronald Pofalla,0,9,4,2
+Praetorius,Barbara Praetorius,0,NA,,1
+Tillich,Stanislaw Tillich,0,9,4,2
+Hasselfeldt,Gerda Hasselfeldt,0,10,4,1
+Kampeter,Steffen Kampeter,0,9,3,2
+Kapferer,Stefan Kapferer,0,13,3,2
+Kempf,Dieter Kempf,0,NA,4,2
+Nemat,Claudia Nemat,0,NA,3,1
+Reiche,Katherina Reiche,0,9,2,1
+Roestel,Gunda Roestel,0,12,3,1
+Schweitzer,Eric Schweitzer,0,NA,3,2
+Grothus,Antje Grothus,0,NA,3,1
+Wodtke,Hannelore Wodtke,0,9,4,1
+Herntier,Christine Herntier,0,NA,4,1
+Kreuzberg,Michael Kreuzberg,0,9,4,2
+Priggen,Reiner Priggen,0,12,4,2
+Vassiliadis,Michael Vassiliadis,0,11,3,2
+Scheidt,Adreas Scheidt,0,11,3,2
+Koerzell,Stefan Koerzell,0,11,3,2
+Kaiser,Martin Kaiser,0,NA,3,2
+Weiger,Hubert Weiger,0,NA,5,2
+Niebert,Kai Niebert,0,NA,1,2
+Allmendinger,Jutta Allmendinger,0,NA,4,1
+Matthes,Felix Matthes,0,NA,3,2
+Schellnhuber,Hans Joachim Schellnhuber,0,NA,4,2
+Niebuhr,Annekathrin Niebuhr,0,NA,,1
+Wehrspohn,Ralf Wehrspohn,0,NA,2,2
+Laemmel,Andreas Laemmel,0,9,3,2
+Lenz,Andreas Lenz,0,10,1,2
+Miersch,Matthias Miersch,0,11,2,2
+1,Politik,1,NA,NA,NA
+2,Verband,1,NA,NA,NA
+3,Gewerkschaft,1,NA,NA,NA
+4,Umweltschutz,1,NA,NA,NA
+5,Industrie,1,NA,NA,NA
+6,Energieunternehmen,1,NA,NA,NA
+7,Wissenschaft,1,NA,NA,NA
+8,Regionalvertreter,1,NA,NA,NA
+9,CDU,1,NA,NA,NA
+10,CSU,1,NA,NA,NA
+11,SPD,1,NA,NA,NA
+12,Gruene,1,NA,NA,NA
+13,FDP,1,NA,NA,NA
